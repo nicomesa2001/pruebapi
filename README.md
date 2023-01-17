@@ -1,6 +1,6 @@
 # PRUEBAPI
 
-Api REST hecha en Django.
+Api REST.
 
 # Construido con :
 
